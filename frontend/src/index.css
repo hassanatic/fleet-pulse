@@ -1,0 +1,9 @@
+body { font-family: system-ui, sans-serif; margin: 0; background: #f7f7f8; color: #1d1d1f; }
+main { max-width: 960px; margin: 0 auto; padding: 1.5rem; }
+table { width: 100%; border-collapse: collapse; background: #fff; margin-top: 0.5rem; }
+th, td { text-align: left; padding: 0.45rem 0.7rem; border-bottom: 1px solid #eee; }
+.num { text-align: right; font-variant-numeric: tabular-nums; }
+.warn { color: #b3261e; font-weight: 600; }
+.error { color: #b3261e; }
+small { color: #777; }
+input, button { font: inherit; padding: 0.3rem 0.5rem; }
